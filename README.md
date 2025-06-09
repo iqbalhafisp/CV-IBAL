@@ -45,7 +45,7 @@
 
 <div class="container">
     <div class="header">
-        <img src="p.jpg" alt="p">
+        <img src="IMG20250608144249.jpg" alt="IMG20250608144249.jpg">
         <div>
             <h1>CV </h1>
             <p>gambulhafiz25@gmail.com<br>
